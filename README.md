@@ -92,15 +92,12 @@ mercenary kill 1234 5678 9012
 ./mercenary kill swtichEngage mariadb firewalld
 ```
 
-## License
-
-This software is property of ServiceNow. All rights reserved.
 
 ## Contact
 
 - Kenny Sheridan
 
-For any troubles or inquiries, reach out to us at hwtest@servicenow.com
+For any troubles or inquiries, reach out to me at kennethdashensheridan@gmail.com
 
 
 
